@@ -42,7 +42,7 @@ public class Product {
 	
 	public Product() {
 		super();
-		// this is good g
+		// this is good good
 	}
 
 	public Long getId() {
