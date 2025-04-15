@@ -42,7 +42,7 @@ public class Product {
 	
 	public Product() {
 		super();
-		// this is good good
+		// this is product constructor
 	}
 
 	public Long getId() {
